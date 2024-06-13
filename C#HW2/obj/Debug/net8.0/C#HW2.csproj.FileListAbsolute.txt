@@ -1,0 +1,14 @@
+C:\Users\РОН\source\repos\C#HW2\bin\Debug\net8.0\C#HW2.exe
+C:\Users\РОН\source\repos\C#HW2\bin\Debug\net8.0\C#HW2.deps.json
+C:\Users\РОН\source\repos\C#HW2\bin\Debug\net8.0\C#HW2.runtimeconfig.json
+C:\Users\РОН\source\repos\C#HW2\bin\Debug\net8.0\C#HW2.dll
+C:\Users\РОН\source\repos\C#HW2\bin\Debug\net8.0\C#HW2.pdb
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.AssemblyInfoInputs.cache
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.AssemblyInfo.cs
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.csproj.CoreCompileInputs.cache
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.dll
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\refint\C#HW2.dll
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.pdb
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\C#HW2.genruntimeconfig.cache
+C:\Users\РОН\source\repos\C#HW2\obj\Debug\net8.0\ref\C#HW2.dll
